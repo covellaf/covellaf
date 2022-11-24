@@ -2,7 +2,7 @@
 - 👀 I’m interested in research, computing, space exploration, science, art and culture.
 - 🌱 I’m currently learning Julia programming language.
 - 💞️ I’m looking to collaborate on interesting projects.
-- 📫 How to reach me: francesca.covella17@imperial.ac.uk, fnc.covella@gmail.com.
+- 📫 How to reach me: fnc.covella@gmail.com.
 
 Vita, si uti scias, longa est. (Seneca)
 
